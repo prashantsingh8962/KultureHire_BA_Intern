@@ -1,4 +1,4 @@
-Based on the two PDFs you provided, I will create 5 questions for each of the 5W1H categories (Who, What, When, Where, Why, How) using information from each document. 
+Based on the two PDFs, I have created 5 questions for each of the 5W1H categories (Who, What, When, Where, Why, How) using information from each document. 
 
 ### **1. Gartner Report - 5W1H Framework**
 
